@@ -13,7 +13,7 @@ BeWell: Wellness Collective is a health and wellness tracking application design
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Please also check out the original [[Documentation]]
+Please also check out the original [Documentation](Documentation.md)
 
 ### Prerequisites
 
@@ -85,7 +85,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 - **Albert Youssef** - *Initial work* - [Albuhrrito](https://github.com/albuhrrito)
 
-See also the list of [contributors](https://github.com/yourusername/bewell/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/albuhrrito/bewell/contributors) who participated in this project.
 
 ## License
 
