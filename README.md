@@ -90,18 +90,3 @@ See also the list of [contributors](https://github.com/albuhrrito/bewell/contrib
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-### Notes for Customization:
-
-- Replace placeholders like `yourusername`, `your_mongodb_uri`, and `Your Name` with your actual GitHub username, MongoDB URI, and name.
-- Adjust the **Installing** and **Built With** sections based on the specific technologies and frameworks used in your project.
-- The **Running the Tests**, **Deployment**, and **Acknowledgments** sections can be filled in with relevant details as your project develops.
-- Remember to create the contributing guide (`CONTRIBUTING.md`) and license file (`LICENSE.md`) if you reference them in the README.
-
-A well-documented README is vital for collaboration and is often the first place users and contributors will look to understand your project.
