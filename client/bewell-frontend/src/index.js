@@ -11,6 +11,20 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+function openSignupPopup() {
+    document.getElementById("signupPopup").style.display = "flex";
+}
+
+function closeSignupPopup() {
+    document.getElementById("signupPopup").style.display = "none";
+}
+
+// Example: Open the signup popup when the page loads
+document.addEventListener('DOMContentLoaded', function() {
+    openSignupPopup();
+});
+
+
 /*import React, { useState } from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
